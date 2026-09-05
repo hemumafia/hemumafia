@@ -36,8 +36,6 @@ Arduino Uno · L298N H-Bridge · C++
 - Implemented dead-zone and minimum-PWM thresholding to eliminate stall at low command values; validated control loop at 10 Hz polling.
 - Designed a shared-ground architecture across battery, MCU, and motor driver for stable PWM signal reference.
 
-*(Swap in your actual repo links above — a recruiter clicking through to a 404 is worse than no link at all.)*
-
 ---
 
 ### 🧰 Tech Stack
@@ -69,15 +67,6 @@ Arduino Uno · L298N H-Bridge · C++
 ### 🏅 Certifications
 
 - "Joy of Computing in Python" — NPTEL (70%)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?hemumafia&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?hemumafia&layout=compact&hide_border=true" />
-</p>
 
 ---
 
