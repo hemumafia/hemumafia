@@ -75,8 +75,8 @@ Arduino Uno · L298N H-Bridge · C++
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemumafia&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemumafia&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?hemumafia&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?hemumafia&layout=compact&hide_border=true" />
 </p>
 
 ---
